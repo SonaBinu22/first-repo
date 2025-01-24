@@ -1,2 +1,2 @@
 new repository
-sample for new branch
+sample for new branch edited for conflict 
